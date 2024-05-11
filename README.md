@@ -22,7 +22,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## How does it work ?
-``
+```
 git clone https://github.com/khaouitiabdelhakim/PFs-GESTIONNER.git
 
 cd PFs-GESTIONNER
@@ -36,4 +36,4 @@ php artisan key:generate
 php artisan migrate
  
 php artisan serve
-``
+```
